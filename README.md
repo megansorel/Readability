@@ -51,18 +51,18 @@ Certain features can vary by reader or group. For example, word frequency was de
 The group who ranks readability could cause bias towards how text is read and therefore it is important in expansions of the project, to allow analysis of difficult features along with readability to provide more informed recommendations.
 
 
-## **Next Steps:**
+# **Next Steps:**
 
 
-## The model is only accounting for 44% of variability in the readability of text. Extracting additional features are the next steps to improve the model.
+The model is only accounting for 44% of variability in the readability of text. Extracting additional features are the next steps to improve the model.
 
 
-## Implementing Nueralcoref to model on pronoun coreference, improving the syntax that the model will use to parse sentences, and creating neural networks that can explain the predictability and cohesiveness of a paragraph's storytelling would be future projects.
+Implementing Nueralcoref to model on pronoun coreference, improving the syntax that the model will use to parse sentences, and creating neural networks that can explain the predictability and cohesiveness of a paragraph's storytelling would be future projects.
 
 It would be ideal to make a model that predicts which features cause the most standard deviation in the readability, as a way of improving recommendations by reader.
 
 
-##**Data Dictionary:**
+# **Data Dictionary:**
 
 Data Source: [Kaggle: CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize/data)
 
